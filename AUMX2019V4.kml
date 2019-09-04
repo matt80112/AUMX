@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>IMG_PHR1B_PMS-N_201909040341366_ORT_4473475101-001</name>
+	<LookAt>
+		<longitude>104.431398148149</longitude>
+		<latitude>7.42625462962963</latitude>
+		<altitude>0</altitude>
+		<heading>0</heading>
+		<tilt>0</tilt>
+		<range>32072</range>
+	</LookAt>
+	<Region>
+		<LatLonAltBox>
+			<north>7.52121759259259</north>
+			<south>7.33129166666667</south>
+			<east>104.524731481482</east>
+			<west>104.338064814815</west>
+			<minAltitude>0</minAltitude>
+			<maxAltitude>0</maxAltitude>
+		</LatLonAltBox>
+		<Lod>
+			<minLodPixels>128</minLodPixels>
+			<maxLodPixels>512</maxLodPixels>
+			<minFadeExtent>0</minFadeExtent>
+			<maxFadeExtent>0</maxFadeExtent>
+		</Lod>
+	</Region>
+	<NetworkLink>
+		<name>IMG_PHR1B_PMS-N_201909040341366_ORT_4473475101-001</name>
+		<Region>
+			<LatLonAltBox>
+				<north>7.52121759259259</north>
+				<south>7.33129166666667</south>
+				<east>104.524731481482</east>
+				<west>104.338064814815</west>
+				<minAltitude>0</minAltitude>
+				<maxAltitude>0</maxAltitude>
+			</LatLonAltBox>
+			<Lod>
+				<minLodPixels>128</minLodPixels>
+				<maxLodPixels>-1</maxLodPixels>
+				<minFadeExtent>0</minFadeExtent>
+				<maxFadeExtent>0</maxFadeExtent>
+			</Lod>
+		</Region>
+		<Link>
+			<href>http://gisservices.datadoors.net/i3_arcgis/kml2/a76d6a21-e851-401d-802d-bc051886b8ed/content</href>
+			<viewRefreshMode>onRegion</viewRefreshMode>
+		</Link>
+	</NetworkLink>
+</Document>
+</kml>
