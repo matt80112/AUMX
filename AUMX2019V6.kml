@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<GroundOverlay>
+	<name>AUMX2019</name>
+	<Icon>
+		<href>Ships_0.JPG</href>
+		<viewBoundScale>0.75</viewBoundScale>
+	</Icon>
+	<LatLonBox>
+		<north>7.430014913641151</north>
+		<south>7.334941599625653</south>
+		<east>104.4590634666264</east>
+		<west>104.3546456511359</west>
+	</LatLonBox>
+</GroundOverlay>
+</kml>
