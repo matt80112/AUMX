@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<NetworkLink>
+	<name>IMG_PHR1B_PMS-N_201909040341366_ORT_4473475101-001</name>
+	<Link>
+		<href>http://gisservices.datadoors.net/i3_arcgis/kml/a76d6a21-e851-401d-802d-bc051886b8ed</href>
+	</Link>
+</NetworkLink>
+</kml>
